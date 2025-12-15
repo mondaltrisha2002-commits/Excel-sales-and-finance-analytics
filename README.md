@@ -49,7 +49,6 @@ Strong sales were also noted in the USA, South Korea, the UK, and Canada.
 3. Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
 4. Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
 5. Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
-6. Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
 
 ### Financial Analysis Reports
 
@@ -73,10 +72,6 @@ Insights: Significant sales growth in 2021 with stable profit margins despite in
 
 Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
-**6. Quarterly Gross Margin Percentage (GM%) by Location**
-
-Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
-
 ## Overall Insights
 
 -  Customer Sales Performance: Notable growth in sales, especially in 2021, with a 304% increase.
@@ -88,4 +83,5 @@ Insights: Variations in profit margins by region, aiding in performance assessme
 - Division Level Report: Impressive growth in the PC division, with substantial revenue increases.
 - Profit and Loss Reports: Detailed assessment of financial health across various dimensions.
 - Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
-- Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
+
+#### This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
